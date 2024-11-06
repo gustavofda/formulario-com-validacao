@@ -1,6 +1,6 @@
 # Formulário de Cadastro de Membros
 
-Este projeto faz parte do processo seletivo para a vaga voluntária de Frontend na **Frontend Fusion**. O desafio consiste em criar um formulário de cadastro de membros com validação de dados e armazenamento local.
+Este projeto fez parte do processo seletivo para a vaga voluntária de Frontend na **Frontend Fusion**. O desafio consistia em criar um formulário de cadastro de membros com validação de dados e armazenamento local.
 
 ## 🎯 Objetivo
 
