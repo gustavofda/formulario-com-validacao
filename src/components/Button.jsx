@@ -1,5 +1,3 @@
-// src/components/Button.js
-import React from 'react';
 import '../styles/Button.css';
 
 const Button = ({ children, ...props }) => (

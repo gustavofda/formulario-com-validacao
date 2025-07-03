@@ -1,5 +1,3 @@
-// src/components/Select.js
-import React from 'react';
 import '../styles/Select.css';
 
 const Select = ({ label, error, children, ...props }) => (
